@@ -38,6 +38,7 @@ Pirated games and mods are not supported
 - A Nexusmods account. Premium is highly recommended for automatic download support.
 - 50 Gb of space. 22 Gb for the downloads folder, and 28 Gb for the actual install.
 
+
 ## Game Preparations
 
 Once Fallout 4 is installed, make sure you run it once. (Get to the Fallout 4 splash screen, and exit).
@@ -48,28 +49,22 @@ Once Fallout 4 is installed, make sure you run it once. (Get to the Fallout 4 sp
 - Extract the WorkBase file with 7zip.
 - Inside of the Workbase folder, create 2 folders called 'OriginalBa2' and 'PatchedBa2'.
 - You should have three folders inside of Workbase: OriginalBa2, PatchedBa2, and PatchedFiles.
-- Navigate to your Fallout4/Data folder, Cut or Copy (Depending on how much space you have) these 15 files:
-
-
-       1) 'Fallout4 - Textures1.ba2'
-       2) 'Fallout4 - Textures2.ba2'
-       3) 'Fallout4 - Textures3.ba2'
-       4) 'Fallout4 - Textures4.ba2'
-       5) 'Fallout4 - Textures5.ba2'
-       6) 'Fallout4 - Textures6.ba2'
-       7) 'Fallout4 - Textures7.ba2'
-       8) 'Fallout4 - Textures8.ba2'
-       9) 'Fallout4 - Textures9.ba2'
-
-       10) 'DLCworkshop01 - Textures.ba2'
-       11) 'DLCworkshop02 - Textures.ba2'
-       12) 'DLCworkshop03 - Textures.ba2'
-
-       13) 'DLCRobot - Textures.ba2'2
-       14) 'DLCCoast - Textures.ba2'
-
-       15) 'DLCNukaWorld - Textures.ba2'
-       
+- Navigate to your Fallout4/Data folder, Cut or Copy (Depending on how much space you have) these 15 files:<br><br>
+    - 'Fallout4 - Textures1.ba2'
+    - 'Fallout4 - Textures2.ba2'
+    - 'Fallout4 - Textures3.ba2'
+    - 'Fallout4 - Textures4.ba2'
+    - 'Fallout4 - Textures5.ba2'
+    - 'Fallout4 - Textures6.ba2'
+    - 'Fallout4 - Textures7.ba2'
+    - 'Fallout4 - Textures8.ba2'
+    - 'Fallout4 - Textures9.ba2'
+    - 'DLCworkshop01 - Textures.ba2'
+    - 'DLCworkshop02 - Textures.ba2'
+    - 'DLCworkshop03 - Textures.ba2'
+    - 'DLCRobot - Textures.ba2'2
+    - 'DLCCoast - Textures.ba2'
+    - 'DLCNukaWorld - Textures.ba2'<br><br>
 - Paste these files into your WorkBase/OriginalBa2 folder.
 - Extract all three Main Repack files.
 - Move and combine the "Textures" folders from these extracted archives into the "PatchedFiles" folder.
