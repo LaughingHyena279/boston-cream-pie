@@ -213,4 +213,26 @@ If you want to avoid the hassle of future updates from Bethesda, open Steam, rig
     - Double Action Revolver
     - Battlefield 1 Animation Pack - Hunting Rifle
     
+
 #### 0.2.0 - Animations and more settlements!
+
+- New Mods:
+  - Settlement Mods:
+    - This Is Trash - A Scrapping Alternative
+    - Capital Wasteland Workshop Pack
+    - Reginalds PreFab ShackFest
+    - Settlement Objects Combined - Lore Friendly<br><br>
+  - Animation Mods:
+    - 10mm Pistol Reanimation Pack
+    - Reanimation Pack for Combat Shotgun and Rifle
+    - Battlefield 1 Animation Pack - Double Barrel Shotgun
+    - P220 Animation Overhaul
+    - Fiddler's Beretta M9FS Animation Overhaul<br><br>
+  - Fixes:
+    - Add power armor patch for AWKCR to fix missing power armor pieces in workbench<br><br>
+  - Changes:
+    - Moved Fallsouls and Wasteland Ballistics to Optional with the Ultrawide patch<br><br>
+  - Updates:
+    - Updated UFO4P to latest version
+
+#### 0.1.1 - Fixes and things!
