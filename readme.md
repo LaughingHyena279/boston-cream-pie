@@ -34,7 +34,7 @@ Pirated games and mods are not supported
 ## Requirements before installing
 
 - Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
-- Clean install of Fallout 4, with all DLCs **except **HD DLC. Non-negotiable.
+- Clean install of Fallout 4, with all DLCs **except** HD DLC. Non-negotiable.
 - A Nexusmods account. Premium is highly recommended for automatic download support.
 - 50 Gb of space. 22 Gb for the downloads folder, and 28 Gb for the actual install.
 
@@ -72,7 +72,7 @@ Once Fallout 4 is installed, make sure you run it once. (Get to the Fallout 4 sp
 13. Navigate back to the WorkBase folder.
 14. After all of these steps are complete, you may delete the WorkBase folder.
 
-Note that you **_CANNOT _** use the HD DLC for BiRaitBec’s texture optimization.   
+Note that you **CANNOT** use the HD DLC for BiRaitBec’s texture optimization.   
 You’ll see missing textures everywhere if you do.
 
 
