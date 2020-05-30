@@ -107,4 +107,54 @@ You’ll see missing textures everywhere if you do.
 1. If you would like the game to be more difficult, enable Wasteland Ballistics, and Fallsouls.
 2. If you have an Ultrawide monitor, enable the TruBy9 UltraWide Fallout 4 patch to fix issues with UI scaling
 
+
+
 ## FO4 Config Settings
+
+1. Navigate to your Boston Cream Pie directory.
+2. Open the "Tools" folder, then the “[Fallout 4 Configuration Tool](https://www.nexusmods.com/fallout4/mods/102)” folder.
+3. Right-click "Fallout4ConfigTool.exe" and Run as Administrator.
+4. When FO4Config launches, navigate to the Settings tab.
+5. Make sure your filepaths align with where you have Boston Cream Pie installed, as shown below. Your folder names may be different.
+
+![image alt text](https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_10.png?raw=true)
+
+6. Next, navigate to the Tweaks tab. Make your screen matches the one shown below. You can change sensitivity options if you like. Make sure your game resolution here matches your monitor’s resolution.
+
+![image alt text](https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_11.png?raw=true)
+
+7. Next, navigate to the Performance tab. Again, make sure the options on your screen match what’s in the image below.
+
+   - Note: If you ran FO4Config through MO2’s executables, you will need to exit out and run the exe as Administrator to enable the "High Priority" option.
+
+![image alt text](https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_12.png?raw=true)
+
+8. Navigate to the Camera tab next. Keep making the images match what you see.
+
+   - Some prefer their Field of View at 80, 85, or 95. It’s up to you.
+
+![image alt text](https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_13.png?raw=true)
+
+9. Onward to the Textures tab. You know what to do.
+
+![image alt text](https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_14.png?raw=true)
+
+10. This is entirely optional. If you want to see different colors instead of the standard green in your pipboy, click the "Disable FX" option and select a color of your choosing.
+
+![image alt text](https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_15.png?raw=true)
+
+11. Gameplay tab! The difficulty numbers correspond with the in-game difficulties. 3 is Hard. If you want Normal, drop it to 2. The higher the number, the higher the difficulty.
+
+   - Note: I know "All NPC’s Killable" is tempting, but you **will** break a lot of quests and scripts if you play this way.
+
+![image alt text](https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_16.png?raw=true)
+
+12. Click "**Save**" in the bottom left.
+
+---
+
+**That’s almost it!** Launch Mod Organizer 2 inside the Boston Cream Pie folder. From now on, launch Fallout 4 via the "F4SE" option.
+
+If you want to avoid the hassle of future updates from Bethesda, open Steam, right-click Fallout 4 in your Library, open Properties, go to the Updates tab, and change the Automatic Update option to "Only update this game when I launch it." Make sure Steam is launched and logged in before launching Fo4 with F4SE or else Steam will launch the native way and force an update should there be one available. Since we’re always launching from F4SE, it will never automatically update again should you do as I have just instructed.
+
+## In-Game Configuration
