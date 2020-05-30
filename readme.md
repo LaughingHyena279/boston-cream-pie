@@ -182,4 +182,35 @@ If you want to avoid the hassle of future updates from Bethesda, open Steam, rig
 
 ![image alt text](https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_18.png?raw=true)
 
+
 ## Changelog
+
+
+#### 0.2.3 - Mod Removal
+- Removed Mod:
+  - Fallout 4 HD Reworked Project Revised - It causes more problems than it solves. Will most likely add back in a future update.
+
+#### 0.2.2 - More bug fixes and things!
+- Changes:
+  - Updated This Is Trash and High FPS Physics Fix to latest version<br><br>
+- Fixes:
+  - ixed graphical issue in Diamond City near the wall.<br><br>
+- New Mods:
+  - Crafting Mastery
+#### 0.2.1 - Bug fixes and changes!
+
+- Changes:
+  - Switched Wasteland Ballistics basic version to Vanilla Lasers version, as laser musket was super over powered.
+  - Change MP5 and MP40 base ammo to 9mm, as that is the ammo it used in Fallout Tactics, and IRL.<br><br>
+- Fixes:
+  - Removed crafting recipes for free .50 AE ammo, free Enclave Armor, and Pasta Ammo<br><br>
+- New Mods:
+  - Weapon Mods:
+    - Bulldog Revolver
+    - HK G3 family with see-through scopes update<br><br>
+  - Animation Mods:
+    - Fiddler's Deliverer Animation Replacer
+    - Double Action Revolver
+    - Battlefield 1 Animation Pack - Hunting Rifle
+    
+#### 0.2.0 - Animations and more settlements!
