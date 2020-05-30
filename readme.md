@@ -10,7 +10,7 @@
 
 All from your favorite Fallout games.  
 This is the (relatively) lore-friendly modlist you have been waiting for!  
-This list is based on Vanilla Sprinkles, but with many mods added that fit withing the limited 'Lore-Friendly' scope of the Fallout universe.  
+This list is based on Vanilla Sprinkles, but with many mods added that fit within the limited 'Lore-Friendly' scope of the Fallout universe.  
 That is, adding things that either fit into the universe, or can be found in previous games.
 
 ## Support Discords
