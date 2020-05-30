@@ -158,3 +158,28 @@ You’ll see missing textures everywhere if you do.
 If you want to avoid the hassle of future updates from Bethesda, open Steam, right-click Fallout 4 in your Library, open Properties, go to the Updates tab, and change the Automatic Update option to "Only update this game when I launch it." Make sure Steam is launched and logged in before launching Fo4 with F4SE or else Steam will launch the native way and force an update should there be one available. Since we’re always launching from F4SE, it will never automatically update again should you do as I have just instructed.
 
 ## In-Game Configuration
+
+1. After the intro movie, click ‘Don’t Show Update Messages Again’ on the Wasteland Imports menu. 
+2. After creating your character, wait for all messages to stop appearing in the top left corner, and open the Mod Configuration Menu and apply these settings:<br><br>
+   - FallSouls (Only if activated as optional addon)
+     - MessageBoxMenu: OFF
+     - MTerminalMenu: OFF
+     - SPECIALMenu -- OFF<br><br>
+   - Workshop Framework
+     - Message Options
+       - Suppress Messages During Combat - ON<br><br>
+   - Workshop Plus
+     - Options
+       - Autosave Timer 5<br><br>
+3. Then, save and restart your game if you have FallSouls activated. Load back in, and proceed through the door to continue.
+4. Now, we still have a little bit of work left to do, but we’re almost done. Now we can launch the game. Once you finish character customization, you’ll have three options when you try to leave.
+   - **This is a dream**: You will wake up in Vault 111. Nora is not your wife. Codsworth is not your robot. You’re just a random Pre-war Sanctuary citizen.
+   - **This is a memory, I don’t want to relive this**: You wake up in Vault 111 as Nate or Nora. Everything else is normal.
+   - **This is a memory, stay here a while**: Vanilla Fallout 4 intro.<br><br>
+5. After you open the Vault door, two menus will open. On the first menu, select ‘Main Menu [default]. Select ‘Only for NPC’s’ on the second menu.
+6. When the LAER menu appears, select ‘No (Only placed LAERs are acquirable)’
+7. After you leave the Vault, you will want to open the SKK Combat Stalkers Holotape in your inventory, and enable the first two options, then scroll down and click the ‘Submit’ option to start the scripts for that mod.
+
+![image alt text](https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_18.png?raw=true)
+
+## Changelog
