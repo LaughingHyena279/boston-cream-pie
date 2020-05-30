@@ -76,4 +76,35 @@ Note that you **_CANNOT _** use the HD DLC for BiRaitBec’s texture optimizatio
 You’ll see missing textures everywhere if you do.
 
 
+
+
 ## Post Installation Instructions
+
+1. Download the latest version of Wabbajack.
+2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
+3. Place the Wabbajack.exe into this new folder.
+4. Download the newest Boston Cream Pie file from the "Browse Modlists" menu
+5. Launch Wabbajack.exe
+6. Select "Install a Modlist"
+7. Choose the BostonCreamPie.wabbajack file you just downloaded.
+8. In "Installation Location" choose a blank folder at the root of a drive (example: D:\Boston Cream Pie). This location **CANNOT** be where you have the Wabbajack.exe located.
+10. The "Download Location" will update automatically. You can change it if you wish.
+11. Click the "Play" arrow.
+12. Make sure to accept the Nexus API request if your browser asks for it.
+13. When Wabbajack completes the installation (you can check the Wabbajack.exe.log to confirm it completed successfully), you may close the program.
+
+
+## Game Folder Instructions
+
+
+1. Navigate back to your Boston Cream Pie installation folder.
+2. Open "Game Folder Files"
+3. Copy everything in this folder.
+4. Paste it into your Fallout 4 directory (steam/steamapps/common/Fallout 4).
+
+#### Optional Mods
+
+1. If you would like the game to be more difficult, enable Wasteland Ballistics, and Fallsouls.
+2. If you have an Ultrawide monitor, enable the TruBy9 UltraWide Fallout 4 patch to fix issues with UI scaling
+
+## FO4 Config Settings
