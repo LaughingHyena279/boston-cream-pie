@@ -38,18 +38,17 @@ Pirated games and mods are not supported
 - A Nexusmods account. Premium is highly recommended for automatic download support.
 - 50 Gb of space. 22 Gb for the downloads folder, and 28 Gb for the actual install.
 
-
 ## Game Preparations
 
 Once Fallout 4 is installed, make sure you run it once. (Get to the Fallout 4 splash screen, and exit).
 
-- Go to [BiRaitBec’s Modding Guide.](https://www.nexusmods.com/fallout4/mods/23556?tab=description) 
-- Manually download the WorkBase file.
-- Manually download the Main Repack files (Part One, Part Two, and Part Three).
-- Extract the WorkBase file with 7zip.
-- Inside of the Workbase folder, create 2 folders called 'OriginalBa2' and 'PatchedBa2'.
-- You should have three folders inside of Workbase: OriginalBa2, PatchedBa2, and PatchedFiles.
-- Navigate to your Fallout4/Data folder, Cut or Copy (Depending on how much space you have) these 15 files:<br><br>
+1. Go to [BiRaitBec’s Modding Guide.](https://www.nexusmods.com/fallout4/mods/23556?tab=description) 
+2. Manually download the WorkBase file.
+3. Manually download the Main Repack files (Part One, Part Two, and Part Three).
+4. Extract the WorkBase file with 7zip.
+5. Inside of the Workbase folder, create 2 folders called 'OriginalBa2' and 'PatchedBa2'.
+6. You should have three folders inside of Workbase: OriginalBa2, PatchedBa2, and PatchedFiles.
+7. Navigate to your Fallout4/Data folder, Cut or Copy (Depending on how much space you have) these 15 files:<br><br>
     - 'Fallout4 - Textures1.ba2'
     - 'Fallout4 - Textures2.ba2'
     - 'Fallout4 - Textures3.ba2'
@@ -65,13 +64,13 @@ Once Fallout 4 is installed, make sure you run it once. (Get to the Fallout 4 sp
     - 'DLCRobot - Textures.ba2'2
     - 'DLCCoast - Textures.ba2'
     - 'DLCNukaWorld - Textures.ba2'<br><br>
-- Paste these files into your WorkBase/OriginalBa2 folder.
-- Extract all three Main Repack files.
-- Move and combine the "Textures" folders from these extracted archives into the "PatchedFiles" folder.
-- Run the installer.bat file inside of WorkBase.
-- When it is done, cut and paste all of the files inside of the PatchedBa2 folder into your Fallout4/Data folder.
-- Navigate back to the WorkBase folder.
-- After all of these steps are complete, you may delete the WorkBase folder.
+8. Paste these files into your WorkBase/OriginalBa2 folder.
+9. Extract all three Main Repack files.
+10. Move and combine the "Textures" folders from these extracted archives into the "PatchedFiles" folder.
+11. Run the installer.bat file inside of WorkBase.
+12. When it is done, cut and paste all of the files inside of the PatchedBa2 folder into your Fallout4/Data folder.
+13. Navigate back to the WorkBase folder.
+14. After all of these steps are complete, you may delete the WorkBase folder.
 
 Note that you **_CANNOT _** use the HD DLC for BiRaitBec’s texture optimization.   
 You’ll see missing textures everywhere if you do.
