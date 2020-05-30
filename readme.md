@@ -235,4 +235,69 @@ If you want to avoid the hassle of future updates from Bethesda, open Steam, rig
   - Updates:
     - Updated UFO4P to latest version
 
+
 #### 0.1.1 - Fixes and things!
+
+- New Mods:
+  - M1928A1 Thompson - Day of Infamy
+  - HN66s and XAZOMNs Distinctive Teeth for FO4
+  - HN66s and XAZOMNs Distinctive Teeth Unique to Player
+  - cVc Dead Wasteland<br><br>
+- Removed Mods:
+  - Thompson SMG Replacer<br><br>
+- Changes:
+  - Fixed load order
+
+#### 0.1.0 - Gameplay and small settlement update!
+
+- New Mods:
+  - Fallsouls - Unpaused Game Menus
+  - Critical Hits Outside of VATS
+  - Wasteland Ballistics
+  - SKK Combat Stalkers
+  - Extended Dialogue Interface
+  - TruBy9 UltraWide Fallout 4 - provides support for ultrawide monitors
+  - G2M - Workshop
+  - Gruffydd’s Signs and Posters
+  - Workshop Framework
+  - Workshop Plus
+  - High FPS Physics Fix<br><br>
+- Changes:
+  - Removed 9mm Ammo from the vault.
+
+#### 0.0.5
+
+- Update to Wabbajack 2.0
+- Update UFO4P
+
+#### 0.0.4
+
+- Removed Mods:
+  - No Legendary Screen - Conflicts with literally everything, and breaks things it shouldn’t even touch.<br><br>
+- Fixes:
+  - Fixed many back-end errors with weapon mods, and removed unused assets. 
+  - Removed OP armor originally found near the beginning of the game.
+  - Reduced damage of base AUG to levels consistent with vanilla assault rifle.
+
+#### 0.0.3
+
+- New:
+  - Compatibility patch for Everyone’s Best Friend and UFO4P <br><br>
+- Fixes:
+  - Small load order and patch fixes in xEdit
+
+#### 0.0.2 - A new challenger approaches….BUGS!
+
+- Update to Wabbajack 1.1.3<br><br>
+- Removed:
+  - Ketaros Magazines - Cell errors
+  - Ketaros Trading Cards - Cell errors
+  - Combat Zone Restored - Performance inconsistent, works for some but not all.<br><br>
+- Added:
+  - Ketaros Treasures<br><br>
+- Bug Fixes:
+  - Cleaned DLC ESMs
+  - Cleaned some other mods with problems
+  - Fixed Power Armor 1st Person Weapons not working issue
+
+#### 0.0.1 - Initial Release
